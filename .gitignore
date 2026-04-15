@@ -1,0 +1,27 @@
+# Vivado files
+.Xil/
+*.jou
+*.log
+*.pb
+*.wdb
+*.wcfg
+*.str
+*.zip
+.cache/
+.hw/
+.ip_user_files/
+.runs/
+.sim/
+Ternary_Architecture.cache/
+Ternary_Architecture.gen/
+Ternary_Architecture.hw/
+Ternary_Architecture.ip_user_files/
+Ternary_Architecture.runs/
+Ternary_Architecture.sim/
+
+# Python files
+__pycache__/
+*.pth
+*.bin
+packed_weights.bin
+.claude/

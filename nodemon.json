@@ -1,0 +1,7 @@
+{
+  "watch": ["src/", "sim/"],
+  "ext": "v,sv,vh",
+  "ignore": ["*.jou", "*.log", "*.pb", "*.wdb", "*.dir/"],
+  "exec": "vivado -mode batch -source scripts/auto_add_sources.tcl && vivado -mode batch -source scripts/run_sim_batch.tcl",
+  "delay": 2500
+}
