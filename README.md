@@ -46,7 +46,7 @@ The system is designed as a custom IP core integrated into a Xilinx Zynq UltraSc
 ### Build Instructions
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/BitNet-FPGA-Accelerator.git
+   git clone https://github.com/Muhammad-Sohair/LLM-on-a-FPGA.git
    ```
 2. Open Vivado and create a new project using the `xczu7ev` part.
 3. Add the files in `/src` and `/wrapper` to the project.
